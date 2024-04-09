@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "cal",
+			"path": "../cal"
+		}
+	],
+	"settings": {}
+}
